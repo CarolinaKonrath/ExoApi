@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\konra\\Downloads\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\konra\\Documents\\IMPORTANTES\\PROGRAMADOR FULL STACK\\Conteúdo\\Desenvolvimento de APIs\\Atividade 3\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\konra\\Downloads\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\konra\\Documents\\IMPORTANTES\\PROGRAMADOR FULL STACK\\Conteúdo\\Desenvolvimento de APIs\\Atividade 3\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\konra\\Downloads\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\konra\\Documents\\IMPORTANTES\\PROGRAMADOR FULL STACK\\Conteúdo\\Desenvolvimento de APIs\\Atividade 3\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\konra\\Downloads\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\konra\\Documents\\IMPORTANTES\\PROGRAMADOR FULL STACK\\Conteúdo\\Desenvolvimento de APIs\\Atividade 3\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\konra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\konra\\Downloads\\ExoApi\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\konra\\Documents\\IMPORTANTES\\PROGRAMADOR FULL STACK\\Conteúdo\\Desenvolvimento de APIs\\Atividade 3\\ExoApi\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\konra\\AppData\\Roaming\\NuGet\\NuGet.Config",

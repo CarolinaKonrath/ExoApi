@@ -23,7 +23,7 @@ namespace Exo.WebApi.Contexts
                 // Exemplo 1 de string de conexão:
                 optionsBuilder.UseSqlServer("User ID = sa; Password = 1234; Server = C2023K; Database = ExoApi; Trusted_Connection = False");
                 // Exemplo 2 de string de conexão:
-                //Server = localhost\\C2023K; Database = ExoApi; Trusted_Connection = True;
+                //optionsBuilder.UseSqlServer("Server = localhost\\C2023K; Database = ExoApi; Trusted_Connection = True");
             }
         }
         public DbSet<Projeto> Projetos { get; set; }
