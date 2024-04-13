@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ccyw63jlYnAYMb242TyXjgBkQYfm9ow86rdEaGOcI4k/EXqvZSGhLxjHeMkmKflNdNLx9XkUzobgz77Jm15G6w==",
+  "dgSpecHash": "56Tt4HNwwLHem78fv9p4xn0WsJoJUiuQxNbTy7I64qm9dtzDMsXwe1V0QH6AxJrVX+pmPuD0BaObWHHN57fVQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\konra\\Documents\\IMPORTANTES\\PROGRAMADOR FULL STACK\\Conteúdo\\Desenvolvimento de APIs\\Atividade 3\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\konra\\Documents\\IMPORTANTES\\PROGRAMADOR FULL STACK\\Conteúdo\\Desenvolvimento de APIs\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\konra\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\konra\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

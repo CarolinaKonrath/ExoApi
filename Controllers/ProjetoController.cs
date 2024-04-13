@@ -13,11 +13,9 @@ namespace Exo.WebApi.Controllers
 
     public class ProjetosController : ControllerBase
     {
-        private readonly ProjetoRepository
-        _projetoRepository;
+        private readonly ProjetoRepository _projetoRepository;
 
-        public ProjetosController(ProjetoRepository
-        projetoRepository)
+        public ProjetosController(ProjetoRepository projetoRepository)
         {
             _projetoRepository = projetoRepository;
         }
