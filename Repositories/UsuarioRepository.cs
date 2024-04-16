@@ -15,10 +15,10 @@ namespace Exo.WebApi.Repositories
             _context = context;
         }
 
-        //public Usuario Login(string email, string senha)
-        //{
-        //    return _context.Usuarios.FirstOrDeFault(u => u.Email == email && u.Senha == senha);
-        //}
+        public Usuario Login(string email, string senha)
+        {
+            return _context.Usuarios.FirstOrDefault(u => u.Email == email && u.Senha == senha);
+        }
 
         public List<Usuario> Listar()
         {

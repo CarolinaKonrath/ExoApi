@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "56Tt4HNwwLHem78fv9p4xn0WsJoJUiuQxNbTy7I64qm9dtzDMsXwe1V0QH6AxJrVX+pmPuD0BaObWHHN57fVQw==",
+  "dgSpecHash": "gFAWvvMwsNjRHycyg0DFfd3xb7nne7ytjhN7OviPIIz4qI6bNCk663+CMSPlmtLzmG424h2aSDsg8u9fGKVPmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\konra\\Documents\\IMPORTANTES\\PROGRAMADOR FULL STACK\\Conteúdo\\Desenvolvimento de APIs\\ExoApi\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
@@ -142,7 +142,11 @@
     "C:\\Users\\konra\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\konra\\.nuget\\packages\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512",
     "C:\\Users\\konra\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\konra\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\konra\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\konra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }
